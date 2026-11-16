@@ -1,6 +1,10 @@
 # Lumigram
 
+[![Live Demo](https://img.shields.io/badge/Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://lumigram.vercel.app/)
+
 A full-featured social media web application built with Django, Django REST Framework, and modern frontend templates.
+
+🌐 **Live URL:** [https://lumigram.vercel.app/](https://lumigram.vercel.app/)
 
 ## ✨ Features
 - **Feed & Posts:** Create, view, like, comment, and share image and video posts with custom filters and post analytics.
