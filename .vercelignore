@@ -1,0 +1,19 @@
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Git & IDE
+.git/
+.github/
+.vscode/
+.idea/
+
+# Byte-code / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
